@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectwebdesign.netlify.app/)
+[LIVE-LINK](https://projectdeveloperlanding.netlify.app/)
 
 - [x] learned about Flexbox properties
 - [x] also learned about Box Shadow.
