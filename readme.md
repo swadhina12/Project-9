@@ -3,7 +3,7 @@
 
 > In this project, I have used HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets), which are two of the core technologies for building Web pages. It is a static and non-responsive page.
 
-![This is an image](./project.jpg)
+![This is an image](./project.gif)
 
 ### As a result of this project, I learn the following:
 [LIVE-LINK](https://projectdeveloperlanding.netlify.app/)
