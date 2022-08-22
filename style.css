@@ -63,6 +63,7 @@ header div:last-child {
 header div .header-image {
   width: 100%;
 }
+/**responsive header**/
 @media only screen and (max-width: 1424px) {
   header div:last-child {
     width: 500px;
@@ -135,6 +136,7 @@ header div .header-image {
   font-size: 1.6rem;
   font-family: "Righteous";
 }
+/**responsive companies**/
 @media only screen and (max-width: 1292px) {
   .companies {
     justify-content: flex-start;
@@ -221,6 +223,7 @@ header div .header-image {
   align-items: center;
   font-size: 2rem;
  }
+ /**responsive api section**/
 @media only screen and (max-width: 925px) {
   .card:last-child::after {
     display: none;
@@ -314,7 +317,7 @@ header div .header-image {
   font-weight: 900;
  }
 
-
+/**responsive blog section**/
  @media only screen and (max-width: 950px) {
     .blog-cards {
       gap: 40px;
@@ -386,7 +389,7 @@ header div .header-image {
     margin-top: 20px;
     border-radius: 4px;
  }
-
+/**responsive faq section**/
  @media only screen and (max-width: 1256px) {
   .faq-section .faq-content {
     position: relative;
@@ -452,7 +455,7 @@ header div .header-image {
   margin: 8px;
   text-transform: uppercase;
 }
-
+/**responsive download section**/
 @media only screen and (max-width: 1047px) {
   .download-section {
     margin: 1rem;
@@ -544,7 +547,7 @@ header div .header-image {
   display: inline-block;
   background-color: #FFFFFF;
 }
-
+/**responsive footer section**/
 @media only screen and (max-width: 670px) {
   .footer-section .footer-left .list {
     flex-direction: column;
